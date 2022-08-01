@@ -1,20 +1,38 @@
 {
   "files": {
-    "main.css": "/music/static/css/main.e6bd540d.css",
-    "main.js": "/music/static/js/main.6b125765.js",
+    "main.css": "/music/static/css/main.e000d133.css",
+    "main.js": "/music/static/js/main.aa56056f.js",
     "static/js/787.71e672d5.chunk.js": "/music/static/js/787.71e672d5.chunk.js",
     "static/media/Gibson_ES-175.png": "/music/static/media/Gibson_ES-175.bc9e66c6a4763b823b35.png",
     "static/media/guitar3.jpg": "/music/static/media/guitar3.99d6b59485da372b1077.jpg",
     "static/media/guitar2.jpg": "/music/static/media/guitar2.f622659768c873a4bc35.jpg",
-    "static/media/background.jpg": "/music/static/media/background.2b5a3bb1b45035252519.jpg",
+    "static/media/guitar_bass.jpg": "/music/static/media/guitar_bass.425c3f84cd55ae57e4c4.jpg",
+    "static/media/keyboard.jpg": "/music/static/media/keyboard.16d13f20eb96d0135698.jpg",
+    "static/media/yamaha_gc2.jpg": "/music/static/media/yamaha_gc2.09cedc4fc659b0dd36b6.jpg",
+    "static/media/background.jpg": "/music/static/media/background.ef38c707c4edd2ce42a7.jpg",
+    "static/media/yamaha_pacifier.png": "/music/static/media/yamaha_pacifier.78f241aa41f7f4b6f4cf.png",
+    "static/media/Piano.jpg": "/music/static/media/Piano.0b8d454243c8a119b570.jpg",
     "static/media/guitar1.jpg": "/music/static/media/guitar1.452d7f9efbd8cd55acde.jpg",
+    "static/media/saxophone.jpg": "/music/static/media/saxophone.2a88b1ec9b3fb97c5ec9.jpg",
+    "static/media/sitar.jpg": "/music/static/media/sitar.b56c58d8785f64d90cf3.jpg",
+    "static/media/yamaha_cf4.jpg": "/music/static/media/yamaha_cf4.07c620bee30b491a3892.jpg",
+    "static/media/yamaha_pacifier_black.jpg": "/music/static/media/yamaha_pacifier_black.21e90a9ac63a71f28ec4.jpg",
+    "static/media/yamaha_cf6.jpg": "/music/static/media/yamaha_cf6.e83b1b1e86e524a20cb7.jpg",
+    "static/media/yamaha-fs80c.jpg": "/music/static/media/yamaha-fs80c.1a4ccf8784d980d54646.jpg",
+    "static/media/drums.jpg": "/music/static/media/drums.f75d0cdcea12504d5280.jpg",
+    "static/media/electric_guitar.jpg": "/music/static/media/electric_guitar.e5061869150e43b65778.jpg",
+    "static/media/acoustic_guitar.jpg": "/music/static/media/acoustic_guitar.531ca13227178d8a49a3.jpg",
+    "static/media/Yamaha_piano_JUJX_series.webp": "/music/static/media/Yamaha_piano_JUJX_series.95aa76046a339021394c.webp",
+    "static/media/yamaha_FGX5.webp": "/music/static/media/yamaha_FGX5.3f3b1dfdcd868c040d02.webp",
+    "static/media/yamaha_LL6_ARE.webp": "/music/static/media/yamaha_LL6_ARE.ffe0203df236d2a0010e.webp",
+    "static/media/yamaha_RSP20.webp": "/music/static/media/yamaha_RSP20.265177bf9028c9bb1c1c.webp",
     "index.html": "/music/index.html",
-    "main.e6bd540d.css.map": "/music/static/css/main.e6bd540d.css.map",
-    "main.6b125765.js.map": "/music/static/js/main.6b125765.js.map",
+    "main.e000d133.css.map": "/music/static/css/main.e000d133.css.map",
+    "main.aa56056f.js.map": "/music/static/js/main.aa56056f.js.map",
     "787.71e672d5.chunk.js.map": "/music/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6bd540d.css",
-    "static/js/main.6b125765.js"
+    "static/css/main.e000d133.css",
+    "static/js/main.aa56056f.js"
   ]
 }
